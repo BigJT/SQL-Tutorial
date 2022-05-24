@@ -1,1 +1,6 @@
 SQL Statements :
+DQL :
+
+The commands of SQL that are used to retrieve data from the database are collectively called DQL.
+Select statements come under DQL
+
