@@ -4,3 +4,6 @@ DQL :
 The commands of SQL that are used to retrieve data from the database are collectively called DQL.
 Select statements come under DQL
 
+DDL:
+Data Definition Language changes the structure of the table like creating a table. deleting a table , altering a table.
+
